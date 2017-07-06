@@ -1,0 +1,12 @@
+Assembly-nin komanda dilleri bire-bir prochessorla ust uste dushur ve burada cox rahat formada komanda ve arqumentler yazmaq mumkundu.
+Assembly imkan yaradir  en tez ve kompakt kod yazmaga. Assembly-nin ustunluyu oduki az komandalardan istifade olunur ve az yer tutur.
+Bu dil vasitesile yazilan kod mashin diline chevirmek uchun bir nov tercume rolunu oynuyur. Yeniki yazilmish kodu 0 ve 1-e deyishib yukluyur.
+Assembly Bios uchun proshivkalar hazirlanmasinda da istifade olunur.
+Menfi ceheti Bu dilin mashin diline chevirennen sora oxunmasinin cox chetin olmasidir.
+Bu dilde yaxshi netice elde etmek uchun guclu proqramist teleb olunur. Orta proqramist terefinden yazilmish Assembly kodu o qederde guclu netice vermir hetta pis netice verir.
+Assembly kodunun mashin diline konvertasiyasi uchun kompilyator yaxudda interpretatordan istifade olunur.
+Yeniki yazilmish kodlari komputerin basha dushduyu dile konvertasiya elemek.  Bularin her ikisi eyni ishi gorur ama ferqleride var.
+Ferq onnan ibaretdirki kompilyator birinci butun proqramda yazilmish kodu scan eliyir sora chevirir onu mashin koduna hansiki processorun basha dushduyu 0 ve 1-e.
+Interpretator coxda kompilyatordan ferqlenmir. Oda yazilmish proqrami chevirir mashin diline 0 ve 1-e ama ferq ondadiki hamisini birden etmir.
+Interpretator her hisse kodu bir bir scan edir ve mashin diline chevirir ve hansisa hissede kodda sehv tapilarsa novbeti hisseye kecmeden chevirmeni saxliyir.
+Kompilyatorla Interpretatorun esas ferqi oduki kompilyator tam chevirmeden sora sehvleri uze cixarir ve sehvlerin uzerinde ishleyib duzeltmek olur ama Interpretator ise tam chevirmir hisse-hisse edib ve hansisa hissede sehv olan kimi saxliyir diger hisseye kecmir sehvin duzelmesini gozleyir.

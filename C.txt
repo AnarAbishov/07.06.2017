@@ -1,0 +1,9 @@
+C dili bir universal dildir. C proqramlashdirma dili diger emeliyyat sistemlerinde de genish istifade olunur.
+Bu dil sistem proqramlashdirmasi uchun en guclu proqramlashdirma dillerden biri hesab olunur.
+Windows, Linux, Unix ve s. emeliyyatlar C-de yazilib.
+C proqramlashdirma dili bir cox diger dillerin inkishafina sebeb olmushdur( C++ ,C# , PHP, Java , Javascript ).
+Adinin C olmasi ise bezi imkanlarinin B dilinden goturulmesi olmushdur.
+C dili o baximdan unikaldirki mehz o proqram teminatinin hazirlanmasinda yuksek seviyyeli ilk dil olub.
+C dilinnen sonra C++ daha sonra ise C# yaranmishdir. Hal-hazirda daha cox C#-dan istifade edilir.
+Verilenler bazasi ile ishlemek uchun de istifade olunur. C, C++, C# Desktop proqramlari sayilir. 
+Backend-de istifade olunur. 
